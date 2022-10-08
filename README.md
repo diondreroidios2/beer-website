@@ -1,1 +1,4 @@
-# beer-website
+
+# steps to run
+npm install
+npm start
